@@ -49,4 +49,5 @@ Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmakt
 Kursumuzun toplam ücreti __KDV dahil 60.000 TL__'dir (Peşin ödemede __50.000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 50.000 TL__'dir (Peşin ödemede __42.000 TL__ ’dir). Kurs ücreti peşin ya da __2 taksit__ olarak ödenebilir.
 
 ## Kursa Kayıt Olma
-+ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/AWcsyN0mQEmEhCoRgdFqFg#/registration)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/AWcsyN0mQEmEhCoRgdFqFg#/registration)
+
