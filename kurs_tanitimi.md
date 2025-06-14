@@ -18,14 +18,14 @@
 Bu eğitim programına katılabilmek için öğrencilerin daha önce bir programlama dilinde uygulama yapmış olması ya da derneğimizde "Programlamaya Giriş" kursuna katılmış olması gerekmektedir.
 
 ## Kurs Süresi
-Eğitimin toplam süresi __180__ saattir. 
+Eğitimin toplam süresi __240__ saattir. 
 
 ## Ders Günleri ve Saatleri
 Dersler hafta içi __Salı ve Perşembe__ günleri  __19.45 – 22.45__ saatleri arasında __3'er saat__ olarak yapılacaktır.
 
 
 ## Eğitim İçeriği
-[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-C-Programlama-Dili-24-Mayis-2022/blob/main/kurs-program%C4%B1.md)
+[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://us02web.zoom.us/meeting/register/AWcsyN0mQEmEhCoRgdFqFg#/registration)
 
 
 
@@ -46,6 +46,7 @@ Dersler hafta içi __Salı ve Perşembe__ günleri  __19.45 – 22.45__ saatleri
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Kurs ücreti __5.400 TL__'dir. Öğrenciler için __4.860 TL__'dir 
+Kursumuzun toplam ücreti __KDV dahil 60.000 TL__'dir (Peşin ödemede __50.000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 50.000 TL__'dir (Peşin ödemede __42.000 TL__ ’dir). Kurs ücreti peşin ya da __2 taksit__ olarak ödenebilir.
+
 ## Kursa Kayıt Olma
-[Kursa katılım için önce ön kayıt yaptırmalısınız.]( https://us02web.zoom.us/meeting/register/tZAqde-vrDwsHtLSsdb8DJeI9NFaB_WLHGLj)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/AWcsyN0mQEmEhCoRgdFqFg#/registration)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
