@@ -11,7 +11,7 @@ Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisa
 ### Kaçırdığım dersler olursa nasıl telafi edebilirim?
 Dersleri izleyen 3 gün içinde dersleri size özel verilecek şifre ile `Vimeo` üzerinden izleyebilirsiniz.
 
-### 180 saatlik bir kurs süresi çok uzun değil mi?
+### 240 saatlik bir kurs süresi çok uzun değil mi?
 Eğitim içeriği göz önüne alındığında `180` saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebilirim. Bu kursu tamamlayanlar `180` saatlik `C++ Eğitimi` kursuna katılmaya aday olurlar.
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
