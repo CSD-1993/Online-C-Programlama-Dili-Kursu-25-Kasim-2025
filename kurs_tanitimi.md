@@ -25,7 +25,7 @@ Dersler hafta içi __Salı ve Perşembe__ günleri  __19.45 – 22.45__ saatleri
 
 
 ## Eğitim İçeriği
-[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://us02web.zoom.us/meeting/register/AWcsyN0mQEmEhCoRgdFqFg#/registration)
+[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-C-Programlama-Dili-Kursu-23-Eylul-2025/blob/main/kurs_icerigi.md)
 
 
 
