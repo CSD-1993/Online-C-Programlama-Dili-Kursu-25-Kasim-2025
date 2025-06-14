@@ -409,4 +409,4 @@
 	+ C99 standartları ile eklenen diğer standart kütüphane öğeleri
  
 # Kursa Kayıt
-[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZUucuytrTopEtJEi5_RgJJMCHp7BrlLUtTf#/registration)
+[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/AWcsyN0mQEmEhCoRgdFqFg#/registration)
