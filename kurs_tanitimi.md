@@ -1,4 +1,4 @@
-# Online C Programlama Dili Kursu - Genel Tanıtımı
+# Online C Programlama Dili Kursu - Genel Tanıtım
 
 
 * Bu kurs, katılımcıların öncelikle __C__ programlama dilini iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde dili kullanma becerisi geliştirmelerini hedeflemektedir.
