@@ -1,4 +1,4 @@
-# C Programlama Dili Kursu İçeriği
+# C Programlama Dili Kursu (240 Saat)
 
 + __Kursun Tanıtımı__
 + __C Programlama Dilinin Genel Tanıtımı__
