@@ -1,4 +1,4 @@
-# Online C Programlama Dili Kursu 23 Eylül 2025
+# Online C Programlama Dili Kursu - 23 Eylül 2025
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
